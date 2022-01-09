@@ -1,0 +1,5 @@
+/Users/williamflorentin/Documents/CODE/language_C/cours_C_2021/projet_v3/mouv/mouv.txt
+/Users/williamflorentin/Documents/CODE/language_C/cours_C_2021/projet_v3/log/
+/Users/williamflorentin/Documents/CODE/language_C/cours_C_2021/projet_v3/config/save/
+/Users/williamflorentin/Documents/CODE/language_C/cours_C_2021/projet_v3/config/config_table/
+/Users/williamflorentin/Documents/CODE/language_C/cours_C_2021/projet_v3/mouv/curl.txt

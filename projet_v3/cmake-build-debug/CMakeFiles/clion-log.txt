@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -DCMAKE_C_COMPILER=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -DCMAKE_CXX_COMPILER=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -G Ninja /Users/williamflorentin/Documents/CODE/language_C/cours_C_2021/projet_v3
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/williamflorentin/Documents/CODE/language_C/cours_C_2021/projet_v3/cmake-build-debug
